@@ -3,3 +3,11 @@ crontab -e
 yum-q
 yum -qd
 ls -al
+pwd
+Mkdir
+Grep
+Chmod
+Touch
+Init 0
+init 1
+ps aux
